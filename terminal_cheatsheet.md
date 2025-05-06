@@ -12,3 +12,8 @@ touch index.html
 
 # Make new folder
 mkdir NewFolder
+
+# View Website in Mobile Version
+Go to website
+Open DevTools (F12)
+Click the device toggle (Ctrl + Shift + M)
