@@ -79,3 +79,20 @@ nav a:hover {
 .gallery-grid img:hover {
     transform: scale(1.05);
 }
+
+.logo-link {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 1000;
+}
+
+.logo-image {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+h1 {
+    font-family: 'CrassRootsAltRegular', sans-serif;
+}
